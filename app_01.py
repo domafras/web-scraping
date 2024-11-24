@@ -1,3 +1,4 @@
+# requests
 import requests
 
 def fetch_page(url):
